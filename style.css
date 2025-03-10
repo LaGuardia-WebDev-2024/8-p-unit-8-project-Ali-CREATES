@@ -8,11 +8,20 @@ body {
   text-align: center;
   color: navy;
   margin: auto;
-  font-family: water;
+  font-family: water, serif;
+ cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='100' height='100' viewport='0 0 100 100' style='fill:black;font-size:50px;'><text y='50%'>🎣</text></svg>") 16 0,auto; /*!emojicursor.app*/
 }
 
 h1{
   font-size: 30px;
+}
+
+h2{
+  font-size: 20px;
+}
+
+h3{
+  font-size: 10px;
 }
 
 #myCanvas {
